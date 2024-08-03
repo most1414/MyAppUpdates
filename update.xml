@@ -1,8 +1,8 @@
 <item>
-  <version>1.0.8.0</version>
-  <url>https://github.com/most1414/MyAppUpdates/raw/main/MyApp-1.0.8.0.zip</url>
+  <version>1.0.10.0</version>
+  <url>https://github.com/most1414/MyAppUpdates/raw/main/MyApp-1.0.10.0.zip</url>
   <mandatory>true</mandatory>
   <changelog>
-    Wersja 1.0.8.0: Dodano nowe funkcje, naprawiono błędy.
+    Wersja 1.0.10.0: Dodano nowe funkcje, naprawiono błędy.
   </changelog>
 </item>
